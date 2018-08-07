@@ -11,3 +11,7 @@ clone and put hbase floder site-packages.
 # start thrift port 9090
 
 ./hbase-daemon.sh start thrift
+
+# demo
+
+demo.py
