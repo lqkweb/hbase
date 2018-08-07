@@ -2,4 +2,4 @@
 
 A Python library to interact with Apache HBase.
 
-put site-packages.
+clone and put hbase floder site-packages.
